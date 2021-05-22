@@ -1,6 +1,2 @@
 # testrepo
-Test test test :)
-
-YAY :)
-
-### :)
+THIS IS THE CHILD
